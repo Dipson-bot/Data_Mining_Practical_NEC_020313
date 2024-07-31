@@ -1,7 +1,2 @@
-Data Mining Projects on:
-1)  K_Mean_Clustering
-2)  K_Nearest_Neighbor
-3)  Logistic_Regression
-4)  Market_Basket_Analysis
-
-Use Jupyter Notebook or Google collab for easy implementation
+open the ".ipyb" files on google collab or jupyter notebook
+other files are simply documentations in word  and pdf format
